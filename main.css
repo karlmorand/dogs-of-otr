@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+img {
+  height: 50vh;
+}
+h2 {
+    font-size: 3em;
+    font-family: Courier, monospace;
+    color: grey;
+    text-align: center;
+  }
+
+h1 {
+  font-family: Courier, monospace;
+  font-size: 5em;
+  color: grey;
+  text-align: center;
+  padding-top: .5%;
+  margin-top: 0;
+}
